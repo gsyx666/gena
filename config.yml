@@ -1,20 +1,20 @@
 # title of website
-title: %NAME%
+title: gena
 
 # description of website
-description: %ACTOR%'s navigation site
+description: gsyx666's navigation site
 
 # favicon of website
-favicon: "https://github.com/%ACTOR%.png?size=40"
+favicon: "https://github.com/gsyx666.png?size=40"
 
 # your website url
-url: https://%ACTOR%.github.io/%NAME%/
+url: https://gsyx666.github.io/gena/
 
 # github profile url
-github: "https://github.com/%ACTOR%"
+github: "https://github.com/gsyx666"
 
 # footer message
-footer: © 2021-2021 @%ACTOR%
+footer: © 2021-2021 @gsyx666
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
