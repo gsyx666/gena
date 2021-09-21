@@ -40,6 +40,15 @@ content:
   categories:
     - name: 常用推荐
       sites:
+        - name: 吾爱破解
+          description: 吾爱破解 - LCG - LSG|安卓破解|病毒分析|
+          url: https://www.52pojie.cn/
+        - name: 看雪论坛
+          description: 安全社区
+          url: https://bbs.pediy.com/
+        - name: MT论坛
+          description: Android 逆向论坛
+          url: https://bbs.binmt.cc/
         - name: Dribbble
           description: 全球UI设计师作品分享平台。
           url: https://dribbble.com/
