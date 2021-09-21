@@ -1,5 +1,5 @@
 # title of website
-title: gena
+title: nav
 
 # description of website
 description: gsyx666's navigation site
@@ -21,12 +21,12 @@ footer: © 2021-2021 @gsyx666
 template: webstack
 
 # Google analytics
-google_analytics: "G-EXE1PJ8CR2"
+# google_analytics: "G-EXE1PJ8CR2"
 
 webstack:
   search:
     enabled: true
-    default: google
+    default: baidu
     # 可选的搜索引擎
     engines:
       - google
