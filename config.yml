@@ -235,7 +235,7 @@ content:
         - name: Instant Logo Search
           description: Search & download thousands of logos instantly
           url: http://instantlogosearch.com/
-   - name: 学习资源
+    - name: 学习资源
       sites:
         - name: Leetcode
           description: 面试准备算法题必备，国内站和国外站数据互通
