@@ -250,81 +250,26 @@ content:
         - name: Instant Logo Search
           description: Search & download thousands of logos instantly
           url: http://instantlogosearch.com/
-    - name: 平面素材
+   - name: 学习资源
       sites:
-        - name: wallhalla
-          description: Find awesome high quality wallpapers for desktop and mobile in one place.
-          url: https://wallhalla.com/
-        - name: 365PSD
-          description: Free PSD & Graphics, Illustrations
-          url: https://365psd.com/
-        - name: Medialoot
-          description: Free & Premium Design Resources — Medialoot
-          url: https://medialoot.com/
-        - name: 千图网
-          description: 专注免费设计素材下载的网站
-          url: http://www.58pic.com/
-        - name: 千库网
-          description: 免费png图片背景素材下载
-          url: http://588ku.com/
-        - name: 我图网
-          description: 我图网,提供图片素材及模板下载,专注正版设计作品交易
-          url: http://www.ooopic.com/
-        - name: 90设计
-          description: 电商设计（淘宝美工）千图免费淘宝素材库
-          url: http://90sheji.com/
-        - name: 昵图网
-          description: 原创素材共享平台
-          url: http://www.nipic.com/
-        - name: 懒人图库
-          description: 懒人图库专注于提供网页素材下载
-          url: http://www.lanrentuku.com/
-        - name: 素材搜索
-          description: 设计素材搜索聚合
-          url: http://so.ui001.com/
-        - name: PS饭团网
-          description: 不一样的设计素材库！让自己的设计与众不同！
-          url: http://psefan.com/
-        - name: 素材中国
-          description: 免费素材共享平台
-          url: http://www.sccnn.com/
-        - name: freepik
-          description: More than a million free vectors, PSD, photos and free icons.
-          url: https://www.freepik.com/
-    - name: UI资源
-      sites:
-        - name: Freebiesbug
-          description: Hand-picked resources for web designer and developers, constantly updated.
-          url: https://freebiesbug.com/
-        - name: Freebie Supply
-          description: Free Resources For Designers
-          url: https://freebiesupply.com/
-        - name: 云瑞
-          description: 优秀设计资源的分享网站
-          url: https://www.yrucd.com/
-        - name: 稀土区
-          description: 优质设计开发资源分享
-          url: https://xituqu.com/
-        - name: ui8
-          description: UI Kits, Wireframe Kits, Templates, Icons and More
-          url: https://ui8.net/
-        - name: uplabs
-          description: Daily resources for product designers & developers
-          url: https://www.uplabs.com/
-        - name: UIkit.me
-          description: 最便捷新鲜的uikit资源下载网站
-          url: http://www.uikit.me/
-        - name: Fribbble
-          description: Free PSD files and other free design resources by Dribbblers.
-          url: http://www.fribbble.com/
-        - name: PrincipleRepo
-          description: Free, High Quality Principle Resources
-          url: http://principlerepo.com/
-        - name: Designmodo
-          description: Web Design Blog and Shop
-          url: https://designmodo.com/
-  
- 
+        - name: Leetcode
+          description: 面试准备算法题必备，国内站和国外站数据互通
+          url: https://leetcode-cn.com/
+        - name: CodeTop
+          description: 企业面试题库
+          url: https://codetop.cc/#/home
+        - name: "6.824"
+          description: 著名的分布式课程
+          url: https://pdos.csail.mit.edu/6.824/index.html
+        - name: Talent Plan
+          description: Pincap 的开源学习计划，类似 6.824 课程
+          url: https://github.com/pingcap/talent-plan
+        - name: 黄简艺术工作室
+          description: 很完善的一套书法教程
+          url: http://www.chinese-artists.net/huangjian/lessons/index.html
+        - name: 菜鸟教程
+          description: 入门教程合集
+          url: https://www.runoob.com/
     - name: PPT资源
       sites:
         - name: OfficePLUS
@@ -346,71 +291,6 @@ content:
           description: 中国领先的PPT模板共享平台
           url: http://ppt.500d.me/
   
-    - name: 界面设计
-      sites:
-        - name: Adobe XD
-          description: Introducing Adobe XD. Design. Prototype. Experience.
-          url: http://www.adobe.com/products/xd.html
-        - name: invisionapp
-          description: Powerful design prototyping tools
-          url: https://www.invisionapp.com/
-        - name: marvelapp
-          description: Simple design, prototyping and collaboration
-          url: https://marvelapp.com/
-        - name: Muse CC
-          description: 无需利用编码即可进行网站设计。
-          url: https://creative.adobe.com/zh-cn/products/download/muse
-        - name: figma
-          description: Design, prototype, and gather feedback all in one place with Figma.
-          url: https://www.figma.com/
-    - name: 交互动效
-      sites:
-        - name: Adobe After Effects CC
-          description: 电影般的视觉效果和动态图形。
-          url: https://www.adobe.com/cn/products/aftereffects/
-        - name: principle
-          description: Animate Your Ideas, Design Better Apps
-          url: http://principleformac.com/
-        - name: flinto
-          description: Flinto is a Mac app used by top designers around the world to create interactive and animated prototypes of their app designs.
-          url: https://www.flinto.com/
-        - name: framer
-          description: Design everything from detailed icons to high-fidelity interactions—all in one place.
-          url: https://framer.com/
-        - name: ProtoPie
-          description: 高保真交互原型设计
-          url: http://www.protopie.cn/
-   
-    - name: 视频教程
-      sites:
-        - name: Photoshop Lady
-          description: Your Favourite Photoshop Tutorials in One Place
-          url: http://www.photoshoplady.com/
-        - name: doyoudo
-          description: 创意设计软件学习平台
-          url: http://doyoudo.com/
-        - name: 没位道
-          description: WEB UI免费视频公开课
-          url: http://www.c945.com/web-ui-tutorial/
-        - name: 慕课网
-          description: 程序员的梦工厂（有UI课程）
-          url: https://www.imooc.com/
-    - name: 设计文章
-      sites:
-        - name: Web Design Ledger
-          description: Web Design Blog
-          url: https://webdesignledger.com
-    - name: 设计电台
-      sites:
-        - name: UX Coffee
-          description: 《UX Coffee 设计咖》是一档关于用户体验的播客节目。我们邀请来自硅谷和国内的学者和职人来聊聊「产品设计」、「用户体验」和「个人成长」。
-          url: http://uxcoffee.co/
-        - name: Anyway.FM
-          description: 设计杂谈 • UI 设计师 JJ 和 Leon 主播的设计播客
-          url: https://anyway.fm/
-        - name: 异能电台
-          description: 将全宇宙设计师的故事讲给你听。
-          url: https://www.yineng.fm
     - name: UED团队
       sites:
         - name: Airbnb Design
