@@ -67,24 +67,46 @@ content:
         - name: xda-developers
           description: 行动软体开发社群
           url: https://www.xda-developers.com/
-        - name: UI中国
-          description: 图形交互与界面设计交流、作品展示、学习平台。
-          url: http://www.ui.cn/
-        - name: 站酷
-          description: 中国人气设计师互动平台
-          url: http://www.zcool.com.cn/
-        - name: Pinterest
-          description: 全球美图收藏采集站
-          url: https://www.pinterest.com/
-        - name: 花瓣
-          description: 收集灵感,保存有用的素材
-          url: http://huaban.com/
-        - name: 优设
-          description: 设计师交流学习平台
-          url: http://www.uisdc.com/
-        - name: Producthunt
-          description: 发现新鲜有趣的产品
-          url: https://www.producthunt.com/
+        - name: V2EX
+          description: 技术论坛，创意工作者们的社区
+          url: https://www.v2ex.com/
+        - name: 需要我帮你百度一下吗
+          description: 需要我帮你百度一下吗生成器
+          url: https://gsyx666.github.io/lmbdfy.html
+    - name: 技术工具
+      sites:
+        - name: misaka ping
+          description: 多点 Ping 工具
+          url: https://ping.sx/ping
+        - name: JSON Editor Online
+          description: JSON 工具，可以对比两个 JSON，以及分享 JSON 片段
+          url: https://jsoneditoronline.org/
+        - name: Excalidraw
+          description: 流程图工具，可以画手写风格的图表
+          url: https://excalidraw.com/
+        - name: ip.sb
+          description: IP 获取
+          url: https://ip.sb/
+    - name: 论坛社区
+      sites:
+        - name: 虎扑步行街
+          description: 虎扑步行街热门话题，每日话题
+          url: https://bbs.hupu.com/all-gambia
+        - name: V2EX
+          description: 技术论坛，创意工作者们的社区
+          url: https://www.v2ex.com/
+        - name: GitHub Trending
+          description: GitHub 排行榜
+          url: https://github.com/trending  
+        - name: Lobsters
+          description: 技术论坛
+          url: https://lobste.rs/
+        - name: 热门微博
+          description: 热门微博，微博热搜
+          url: https://weibo.com/hot
+        - name: Reddit Rust 频道
+          description: Reddit Rust 专区
+          url: https://www.reddit.com/r/rust/
         - name: Youtube
           description: 全球最大的学习分享平台
           url: https://www.youtube.com/
