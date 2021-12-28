@@ -73,6 +73,11 @@ content:
         - name: 需要我帮你百度一下吗
           description: 需要我帮你百度一下吗生成器
           url: https://gsyx666.github.io/lmbdfy.html
+    - name: 导航网站
+      sites:
+        - name: eryajf 导航
+          description: eryajf 导航
+          url: http://nav.eryajf.net/
     - name: 技术工具
       sites:
         - name: misaka ping
